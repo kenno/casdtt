@@ -10,14 +10,13 @@ Yes, you can create a message in MS Teams channel using Microsoft Teams applicat
 
 * I use [dwm](https://dwm.suckless.org/) (dynamic window manager) on Fedora
 * `casdtt` allows me to run just 1 command from the terminal
-* I a good reason to write a simple program in Rust, yet it's also useful for work
+* it gives me a good reason to write a simple program in Rust, yet it's also useful for work
 
 ## Usage
 
 ```console
 ❯ casdtt -h
 casdtt 0.1.1
-Soputtra San <soputtra.san@unsw.edu.au>
 Post a CASD request to a Teams channel
 
 USAGE:
