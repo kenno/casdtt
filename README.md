@@ -49,7 +49,7 @@ For Ruster:
 ```console
 ❯ git clone https://github.com:kenno/casdtt
 ❯ cd casdtt
-❯ rust install --path .
+❯ cargo install --path .
 ```
 
 ## License
