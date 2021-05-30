@@ -1,16 +1,16 @@
 # CASDTT - Creating a message to a MS Teams channel 
 
-CASDTT is a command line program for creating a message in Micrsofoft Teams channel.
+CASDTT is a command line program for posting a message to Microsoft Teams channel.
 
 ![Screenshot](./doc/casdtt_teams.png)
 
 ## Motivation
 
-Yes, you can create a message in MS Teams channel using Microsoft Teams application by clicking and copy-and-pastings just fine, but...
+Yes, you can create a message in a Teams channel using Microsoft Teams application by clicking and copy-and-pastings just fine, but...
 
 * I use [dwm](https://dwm.suckless.org/) (dynamic window manager) on Fedora
 * `casdtt` allows me to run just 1 command from the terminal
-* it gives me a good reason to write a simple program in Rust, yet it's also useful for work
+* it gives me a good reason to use Rust to write a small program
 
 ## Usage
 
